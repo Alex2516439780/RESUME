@@ -1,0 +1,21 @@
+body {
+    background-color: darkslategrey;
+    color: rgb(226, 207, 226);
+}
+
+img{
+    width: 10%;
+    
+}
+
+.title3{
+    width: 40%;
+}
+
+#exp1, li {
+    width: 40%;
+}
+
+#fake {
+    width: 100%;
+}
